@@ -1,0 +1,7 @@
+.venv
+.env
+.git
+journal.jsonl
+desk_agent/.adk
+__pycache__
+*.pyc
